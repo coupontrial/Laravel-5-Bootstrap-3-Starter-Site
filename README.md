@@ -155,3 +155,6 @@ Inspired by and based on [andrew13's Laravel-4-Bootstrap-Starter-Site](https://g
 ![Admin photo albums](http://i57.tinypic.com/346u9as.png)
 ![Admin photos](http://i59.tinypic.com/55nody.png)
 ![Admin list users](http://i60.tinypic.com/1zen3n.png)
+
+
+http://anthonyvipond.com/training
